@@ -1,0 +1,35 @@
+* {
+	text-decoration: none;
+	margin: 0px;
+	font-family: "Open Sans";
+}
+
+.container {
+	height: 800px;
+	width: 640px;
+	margin: 0 auto;
+	background-color: #cccccc;
+	border-radius: 5px;
+}
+
+.t {
+	height: 120px;
+	width: 100%;
+	background-color: #669999;
+	text-align: center;
+}
+
+.t h1 {
+	font-size: 5em;
+	color: white;
+}
+
+.m {
+	height: 560px;
+}
+
+.b {
+	height: 120px;
+	width: 100%;
+	background-color: #669999;
+}
