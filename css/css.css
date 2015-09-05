@@ -8,28 +8,38 @@
 	height: 800px;
 	width: 640px;
 	margin: 0 auto;
-	background-color: #cccccc;
+	background-color: #CD5334;
 	border-radius: 5px;
 }
 
 .t {
 	height: 120px;
 	width: 100%;
-	background-color: #669999;
+	background-color: #2E282A;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
 	text-align: center;
 }
 
 .t h1 {
 	font-size: 5em;
-	color: white;
+	color: #EDB88B;
 }
 
 .m {
 	height: 560px;
+	color: #EDB88B;
+}
+.m h2 {
+	color: #FAD8D6;
+	text-align: center;
+	padding-top: 1.5em;
 }
 
 .b {
 	height: 120px;
 	width: 100%;
-	background-color: #669999;
+	background-color: #2E282A;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
 }
