@@ -5,7 +5,7 @@
 }
 
 .container {
-	height: 800px;
+	height: 500px;
 	width: 640px;
 	margin: 0 auto;
 	background-color: #CD5334;
@@ -13,7 +13,7 @@
 }
 
 .t {
-	height: 120px;
+	height: 7.5em;
 	width: 100%;
 	background-color: #2E282A;
 	border-top-left-radius: 5px;
@@ -27,19 +27,34 @@
 }
 
 .m {
-	height: 560px;
+	height: 22.5em;
 	color: #EDB88B;
 }
 .m h2 {
 	color: #FAD8D6;
 	text-align: center;
-	padding-top: 1.5em;
+	padding-top: 1em;
 }
 
+	.aOptions {
+		padding: 1em;
+	}
+
 .b {
-	height: 120px;
+	height: 7.5em;
 	width: 100%;
 	background-color: #2E282A;
 	border-bottom-left-radius: 5px;
 	border-bottom-right-radius: 5px;
+}
+
+input {
+	display: inline;
+}
+
+span {
+	display: inline;
+	font-size: 1.2em;
+	font-style: italic;
+	padding-left: 1em;
 }
